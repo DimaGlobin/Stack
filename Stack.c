@@ -3,7 +3,7 @@
 #include<stdlib.h>
 
 #define ERR_PTR 13.0
-#define STACK_COEFF 1.5
+#define STACK_COEFF 2
 #define STACK_OVERFLOW -1
 #define STACK_UNDERFLOW -2
 
